@@ -1,6 +1,6 @@
 The following steps need to be taken care of before starting the Growth Hacking Process.
 
-1# Data Work
+# Data Work
 Everything we do needs to be measured - remember: “What we cannot measure, we do not do.” That’s why it is of utmost importance to have accurate and orderly tracking in place. Every piece of effort put into tracking is an investment that will yield you tenfold return. Accurate: you do not want any lost or missing data. Orderly: you also don’t want a data jungle where different categories of data mix up and mislead you to making incorrect assumptions or draw false conclusions. Nothing worse than the hypothesis of an experiment mistakenly verified or falsified. 😖 All points of contact with your company or brand should be tracked in every way and cohesively put together in one data suite. If you can afford it, hire a data scientist. If you are a smaller company, train someone (anyone in your company) to do it or have the Growth Lead be an expert at it and develop a solution specifically for your company. 
 
 Once you have proper tracking in place, let that run with your regular daily business for as long as possible, at least one month or season. In B2B, proper data can start being extracted after at least 2 sales cycles have passed. The more data, the merrier.
