@@ -2,7 +2,7 @@
 
 I am Julia Haitzmann, a Growth Hacker from Vienna, Austria. I wrote this document in an attempt to fill in the gaps about growth hacking knowledge that is out there today. With my experience in working for a growth hacking agency and subsequently becoming an independent contractor, I have always been on a quest to fill in the gaps for myself. In this document, I share what I have found to lay the groundwork for a new era.
 
-If you want to work with me, feel free to email me at [link](mailto:julia@thegrowthhackingcode.com). 
+If you want to work with me, feel free to email me at [julia@thegrowthhackingcode.com](mailto:julia@thegrowthhackingcode.com). 
 
 # The Goal Of This Document
 
