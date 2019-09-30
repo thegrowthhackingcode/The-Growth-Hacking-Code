@@ -5,3 +5,5 @@ If you need help with any of this, feel free to email me at julia@thegrowthhacki
 We have not reached product-market-fit with this ourselves yet, so we’re in product development phase - with you. Again, feel free to comment or give feedback on this document, and submit pull requests as you please.
 
 I’m glad that you read this far in the document (or skipped to the end). Now go and implement what you learned here!
+
+SUCCESS :tada: Watch my [Outro Video 1](https://vimeo.com/363422501) and [2](https://vimeo.com/363422501).
