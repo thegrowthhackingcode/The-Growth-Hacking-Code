@@ -1,3 +1,5 @@
+:movie_camera: Watch this quick [Intro Video](https://vimeo.com/363422471).
+
 # What Growth Hacking is Not
 
 Before we start, it is important to know what growth hacking is not.
