@@ -17,7 +17,7 @@ Their responsibilities are:
   * taking in their feedback and ideas
 * present learnings and conclusions to the rest of the company in a clear and easily readable manner
   * together with the data analyst, the Growth Lead helps create the growth hacking dashboard that everyone in the company has access to
-* lead the Growth Meetings and Growth Days
+* lead the Growth Meetings
 
 The Growth Lead is to be determined first. She will then go on to recruiting all other Growth Team members from within the company, hiring either the department heads, a person strongly backed by their respective department head, or even both, if multiple people from the same department have the time and resources to participate in the Process.
 
